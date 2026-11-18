@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Gorak",
+    "race": "Unknown",
+    "strength": "18",
+    "agility": "12",
+    "constitution": "16",
+    "armor": "5",
+    "current_hp": "45"
+  },
+  {
+    "name": "Elira",
+    "race": "Elf",
+    "strength": "10",
+    "agility": "18",
+    "constitution": "12",
+    "armor": "2",
+    "current_hp": "32"
+  },
+  {
+    "name": "Thorn",
+    "race": "Human",
+    "strength": "14",
+    "agility": "14",
+    "constitution": "14",
+    "armor": "3",
+    "current_hp": "38"
+  },
+  {
+    "name": "Vexa",
+    "race": "Drow",
+    "strength": "12",
+    "agility": "16",
+    "constitution": "11",
+    "armor": "4",
+    "current_hp": "25"
+  },
+  {
+    "name": "Borgak",
+    "race": "Troll",
+    "strength": "20",
+    "agility": "8",
+    "constitution": "19",
+    "armor": "6",
+    "current_hp": "50"
+  },
+  {
+    "name": "Harold",
+    "race": "Unknown",
+    "strength": "14",
+    "agility": "10",
+    "constitution": "8",
+    "armor": "2",
+    "current_hp": "16"
+  },
+  {
+    "name": "Bob",
+    "race": "Unknown",
+    "strength": "12",
+    "agility": "18",
+    "constitution": "14",
+    "armor": "2",
+    "current_hp": "28"
+  },
+  {
+    "name": "Potatoman",
+    "race": "Unknown",
+    "strength": "18",
+    "agility": "9",
+    "constitution": "16",
+    "armor": "2",
+    "current_hp": "32"
+  },
+  {
+    "name": "Jimmy",
+    "race": "Unknown",
+    "strength": "12",
+    "agility": "8",
+    "constitution": "18",
+    "armor": "2",
+    "current_hp": "36"
+  },
+  {
+    "name": "Eggjohn",
+    "race": "Unknown",
+    "strength": "13",
+    "agility": "18",
+    "constitution": "10",
+    "armor": "2",
+    "current_hp": "20"
+  },
+  {
+    "name": "Talula",
+    "race": "Unknown",
+    "strength": "18",
+    "agility": "16",
+    "constitution": "9",
+    "armor": "2",
+    "current_hp": "18"
+  },
+  {
+    "name": "Frank",
+    "race": "Unknown",
+    "strength": "8",
+    "agility": "8",
+    "constitution": "13",
+    "armor": "2",
+    "current_hp": "26"
+  }
+]
